@@ -53,4 +53,4 @@ while os.path.isfile(f"HandwrittenDigits/{image_number}.png"):
 
     finally:
         image_number+=1
-"fin"
+
